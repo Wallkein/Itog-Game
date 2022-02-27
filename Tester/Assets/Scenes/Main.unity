@@ -678,7 +678,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 2
-  jumpforce: 1
+  jumpforce: 7
   Lives: 5
   Lives_text: {fileID: 302978384}
   Points_text: {fileID: 945307466}
